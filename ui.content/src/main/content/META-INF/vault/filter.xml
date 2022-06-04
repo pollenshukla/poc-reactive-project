@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/reactive-project" mode="merge"/>
+    <filter root="/content/reactive-project" mode="merge"/>
+    <filter root="/content/dam/reactive-project/asset.jpg" mode="merge"/>
+    <filter root="/content/experience-fragments/reactive-project" mode="merge"/>
+</workspaceFilter>
